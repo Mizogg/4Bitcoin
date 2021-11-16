@@ -3,7 +3,7 @@ from bitcoinaddress import Wallet
 import random
 
 filename ='puzzle.txt'
-
+print('⏳⏳Bitcoin Addresses Loading Please Wait⏳⏳: ')
 with open(filename) as f:
     line_count = 0
     for line in f:
