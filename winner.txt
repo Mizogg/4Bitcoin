@@ -1,0 +1,101 @@
+
+Privatekey (dec): 3
+Privatekey (hex): 0000000000000000000000000000000000000000000000000000000000000003
+Privatekey Uncompressed: 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ip4nEB3kEsreB1FQ8BZ
+Privatekey compressed: KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9M7rFU74sHUHy8S
+Public Address 1 Compressed: 1CUNEBjYrCn2y1SdiUMohaKUi4wpP326Lb
+Public Address 1 Uncompressed: 1NZUP3JAc9JkmbvmoTv7nVgZGtyJjirKV1
+Public Address 3 Segwit: 3BM3eLQZbwubG3XwwxJmd9qxwMJn7yUTSn
+Public Address bc1 P2WPKH: bc1q0ht9tyks4vh7p5p904t340cr9nvahy7u3re7zg
+Public Address bc1 P2WSH: bc1qatssehf09zda44zxzkqfedpz6tata93za4cx44we60la9nw3cqqsaa5nm5
+ =====Made by mizogg.co.uk Donations 3P7PZLbwSt2bqUMsHF9xDsaNKhafiGuWDB =====
+Privatekey (dec): 7
+Privatekey (hex): 0000000000000000000000000000000000000000000000000000000000000007
+Privatekey Uncompressed: 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ip4nEB3kEsreBR6zCMU
+Privatekey compressed: KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9M7rFU76rnZwVdz
+Public Address 1 Compressed: 19ZewH8Kk1PDbSNdJ97FP4EiCjTRaZMZQA
+Public Address 1 Uncompressed: 1BYbgHpSKQCtMrQfwN6b6n5S718EJkEJ41
+Public Address 3 Segwit: 3BW9kFfY5TGhjVoRtxoijfjJvfggZgfNDX
+Public Address bc1 P2WPKH: bc1qthklh702txwafc72d2qtxv7ywt7sk0mfy3mw6y
+Public Address bc1 P2WSH: bc1q5gpeg2w295hjhnq8yksks2hwavavrw88wfyvxna90lx772wsr3fs4naww5
+ =====Made by mizogg.co.uk Donations 3P7PZLbwSt2bqUMsHF9xDsaNKhafiGuWDB =====
+Privatekey (dec): 8
+Privatekey (hex): 0000000000000000000000000000000000000000000000000000000000000008
+Privatekey Uncompressed: 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ip4nEB3kEsreBbMaQX1
+Privatekey compressed: KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9M7rFU77MfhviY5
+Public Address 1 Compressed: 1EhqbyUMvvs7BfL8goY6qcPbD6YKfPqb7e
+Public Address 1 Uncompressed: 1JMcEcKXQ7xA7JLAMPsBmHz68bzugYtdrv
+Public Address 3 Segwit: 3PNNDgsXkAwe6jZScfShL3KapB6FhFePRH
+Public Address bc1 P2WPKH: bc1qjefds6ld7sadyepk9ehxawnwkaj9pqf8xuq2eg
+Public Address bc1 P2WSH: bc1qhc4sr9r3jwp4k2nsuzldssd5mkyjde6ldf6z0w3ajzshwjl2etrqgvrt8p
+ =====Made by mizogg.co.uk Donations 3P7PZLbwSt2bqUMsHF9xDsaNKhafiGuWDB =====
+Privatekey (dec): 21
+Privatekey (hex): 0000000000000000000000000000000000000000000000000000000000000015
+Privatekey Uncompressed: 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ip4nEB3kEsreD437Nay
+Privatekey compressed: KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9M7rFU7Dq8Au4Pv
+Public Address 1 Compressed: 1E6NuFjCi27W5zoXg8TRdcSRq84zJeBW3k
+Public Address 1 Uncompressed: 19vxtDbLMNasSpbAEZd7va5Qge6d2zYWbp
+Public Address 3 Segwit: 38xPY27A6fiRXHSDRbRkLfV2xQb7UmKpXv
+Public Address bc1 P2WPKH: bc1q37wl7wdgrmj2hjad9tvt4llsjpq452lgkcskpy
+Public Address bc1 P2WSH: bc1qaprv9sa9eynun53at23ynjpc4yf9v96dh9kxrj096dq24t5evtnqh9kp6d
+ =====Made by mizogg.co.uk Donations 3P7PZLbwSt2bqUMsHF9xDsaNKhafiGuWDB =====
+Privatekey (dec): 49
+Privatekey (hex): 0000000000000000000000000000000000000000000000000000000000000031
+Privatekey Uncompressed: 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ip4nEB3kEsreGAk6qMH
+Privatekey compressed: KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9M7rFU7Tmu6qHxS
+Public Address 1 Compressed: 1PitScNLyp2HCygzadCh7FveTnfmpPbfp8
+Public Address 1 Uncompressed: 18JVE1MSS7a2NEhtHJkxhwgvT4hLQYBw3w
+Public Address 3 Segwit: 3BkXwT6CK1dFEVSGbJHzrwNisUGhuWBRwd
+Public Address bc1 P2WPKH: bc1qlylvxn57xj503lmavqxd4kpsg7cmedzuugem3h
+Public Address bc1 P2WSH: bc1qtkq0qxu4pw0vnpfkwkd5k2xw4h62fl532epdymg2papwlhqkezgq2p6g62
+ =====Made by mizogg.co.uk Donations 3P7PZLbwSt2bqUMsHF9xDsaNKhafiGuWDB =====
+Privatekey (dec): 76
+Privatekey (hex): 000000000000000000000000000000000000000000000000000000000000004c
+Privatekey Uncompressed: 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ip4nEB3kEsreKD614Nu
+Privatekey compressed: KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9M7rFU7hDgvu64y
+Public Address 1 Compressed: 1McVt1vMtCC7yn5b9wgX1833yCcLXzueeC
+Public Address 1 Uncompressed: 1ESJVfV5UVERkWgVNfMjsLwJT88yMJHi8R
+Public Address 3 Segwit: 33NmypyeTdoE2tdj2tZwAQMCRranteifcy
+Public Address bc1 P2WPKH: bc1qugvjaznamrw3ezpjr9vmgauk3w2p42tn3txcnx
+Public Address bc1 P2WSH: bc1qy0fslzjnzee5fh9rx38z75nwel549v3wc5l5sh7t08pjh68l05fqxp03fq
+ =====Made by mizogg.co.uk Donations 3P7PZLbwSt2bqUMsHF9xDsaNKhafiGuWDB =====
+Privatekey (dec): 224
+Privatekey (hex): 00000000000000000000000000000000000000000000000000000000000000e0
+Privatekey Uncompressed: 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ip4nEB3kEsrebwE4gQs
+Privatekey compressed: KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9M7rFU8xvGK1zpm
+Public Address 1 Compressed: 1M92tSqNmQLYw33fuBvjmeadirh1ysMBxK
+Public Address 1 Uncompressed: 1HFvQh3dVFPae3JaFjL5Mpua9Zbg9Y6FrK
+Public Address 3 Segwit: 384CGuTAFqcvTJ1DEnmTn7NQe3kSoBdP69
+Public Address bc1 P2WPKH: bc1qmnnkkfsnq5h2qy3qgsz2j7euyh4vx9c4ct6tuv
+Public Address bc1 P2WSH: bc1q24lnlqkyaec7kca5fdxfstzjsjegcj8vwgxmeegzvtmcpwgx2xgq67cugt
+ =====Made by mizogg.co.uk Donations 3P7PZLbwSt2bqUMsHF9xDsaNKhafiGuWDB =====
+Privatekey (dec): 467
+Privatekey (hex): 00000000000000000000000000000000000000000000000000000000000001d3
+Privatekey Uncompressed: 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ip4nEB3kEsrf5KgGj3x
+Privatekey compressed: KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9M7rFUB3vfDKcxZ
+Public Address 1 Compressed: 1CQFwcjw1dwhtkVWBttNLDtqL7ivBonGPV
+Public Address 1 Uncompressed: 1CpudzGLUutTRM8wFu2BRQJNo11CzpMmHH
+Public Address 3 Segwit: 3FgyX6YmQq1XN29KCjbDPAiZPCh72EYeSH
+Public Address bc1 P2WPKH: bc1q058kce90ksvmh4lfw855846qfv8qm2457xqm7h
+Public Address bc1 P2WSH: bc1qh4hf700t6j92a90prs4cs0lzrt8ykzrqaft8dd0q2peyqhdwrzhqa7d8yf
+ =====Made by mizogg.co.uk Donations 3P7PZLbwSt2bqUMsHF9xDsaNKhafiGuWDB =====
+Privatekey (dec): 514
+Privatekey (hex): 0000000000000000000000000000000000000000000000000000000000000202
+Privatekey Uncompressed: 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ip4nEB3kEsrfAeGjhSe
+Privatekey compressed: KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9M7rFUBTL67V6dE
+Public Address 1 Compressed: 1LeBZP5QCwwgXRtmVUvTVrraqPUokyLHqe
+Public Address 1 Uncompressed: 1ofbgenBbkCcmQyRK7XzHnhFHULAdNsBu
+Public Address 3 Segwit: 37ikgSWtXptgUeVshZV7PbBZwxce1BPoBq
+Public Address bc1 P2WPKH: bc1q6aefs9n9pevp6arz654ddaejmg8zajfmftc9yt
+Public Address bc1 P2WSH: bc1qsh7lvntk7tm7t2gwxmkqkzmd5h5xy8phw0st5k2th8a82p5wy2as4hrenp
+ =====Made by mizogg.co.uk Donations 3P7PZLbwSt2bqUMsHF9xDsaNKhafiGuWDB =====
+Privatekey (dec): 1155
+Privatekey (hex): 0000000000000000000000000000000000000000000000000000000000000483
+Privatekey Uncompressed: 5HpHagT65TZzG1PH3CSu63k8DbpvD8s5ip4nEB3kEsrgQwUiKuq
+Privatekey compressed: KwDiBf89QgGbjEhKnhXJuH7LrciVrZi3qYjgd9M7rFUGxXgtm63M
+Public Address 1 Compressed: 1PgQVLmst3Z314JrQn5TNiys8Hc38TcXJu
+Public Address 1 Uncompressed: 1J3PLTqmUnBX3CMxxCap3pFgzPGgN5btKf
+Public Address 3 Segwit: 35iHgrxTFLkXaWnjgQD5PDmiEWpcVGMZFD
+Public Address bc1 P2WPKH: bc1qlrrf3k33vnhclfp9s6fdzxxvn2gzckkv4z28x5
+Public Address bc1 P2WSH: bc1qg88dp7fm5ps2gfn09j246sjgf237futfaxex4v665gxhnzmwd4vs0evqt0
+ =====Made by mizogg.co.uk Donations 3P7PZLbwSt2bqUMsHF9xDsaNKhafiGuWDB =====
