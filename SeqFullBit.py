@@ -1,6 +1,6 @@
 #SeqFullbit.py =====Made by mizogg.co.uk Donations 3P7PZLbwSt2bqUMsHF9xDsaNKhafiGuWDB =====
 from bitcoinaddress import Wallet
-
+print('⏳⏳Bitcoin Addresses Loading Please Wait⏳⏳: ')
 filename ='puzzle.txt'
 with open(filename) as f:
     line_count = 0
