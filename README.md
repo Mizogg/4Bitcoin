@@ -17,6 +17,11 @@ Finding Result of Total Received Ammount
 ![image](https://user-images.githubusercontent.com/88630056/144496532-6185f08d-9499-49ca-a020-9200ace5ac71.png)
 
 Winning Email Report works well with Gmail
+Edit Line 5 Email Address Line 6 Password and Line 78 Receiving Email
+
+![image](https://user-images.githubusercontent.com/88630056/144498052-83033738-25a2-4592-8cc2-e985d226bb1c.png) ![image](https://user-images.githubusercontent.com/88630056/144498232-0a85ea0c-f6ed-4af6-b310-9fbd47380708.png)
+
+
 ![image](https://user-images.githubusercontent.com/88630056/144495928-16a88d2e-7c4f-4282-85b7-7e1ac719ec8c.png)
 
 
