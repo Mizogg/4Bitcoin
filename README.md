@@ -1,26 +1,30 @@
 # 4Bitcoin
 Bitcoin Wallet Address Generator This is a simple Bitcoin non-deterministic wallet address generator coded in Python 3. It generates a Private Key in different formats (hex, wif and compressed wif) and corresponding Public Addresses, raw, P2WPKH addresses starting with prefix 1, P2SH addresses starting with prefix 3 as part of Segwit soft fork and Bech32 addresses with prefix bc1 P2WPKH and P2WSH. (https://pypi.org/project/bitcoinaddress/)
 
-
-## ✨✨4Bitcoin.py ✨✨
-
-Hunt for Bitcoin and Check Total received, Includes Report to email and save to file if found. 
-
-![image](https://user-images.githubusercontent.com/88630056/144495885-1622a28e-1ec3-4534-8ae1-4d66c52cd259.png)
-
-![image](https://user-images.githubusercontent.com/88630056/144495928-16a88d2e-7c4f-4282-85b7-7e1ac719ec8c.png)
-
-
-![image](https://user-images.githubusercontent.com/88630056/142075386-3d818858-79d0-4b81-897a-1d902d12ee32.png)
-
 Installation
 pip install bitcoinaddress
 
-## ✨✨Sequential Search✨✨SeqFullBit.py✨✨
+## ✨✨4Bitcoin.py ✨✨ ON-Line Total Received Ammount
+
+Hunt for Bitcoin and Check Total received, Includes Report to email and save to file if found. 
+
+Colourful Display. Pick Puzzle starting Number/Range Starting from 0-256 Max.
+
+Below Example Puzzle 64-160
+![image](https://user-images.githubusercontent.com/88630056/144495885-1622a28e-1ec3-4534-8ae1-4d66c52cd259.png)
+
+Finding Result of Total Received Ammount
+![image](https://user-images.githubusercontent.com/88630056/144496532-6185f08d-9499-49ca-a020-9200ace5ac71.png)
+
+Winning Email Report works well with Gmail
+![image](https://user-images.githubusercontent.com/88630056/144495928-16a88d2e-7c4f-4282-85b7-7e1ac719ec8c.png)
+
+
+## ✨✨Sequential Search✨✨SeqFullBit.py✨✨ Off-Line Scan
 
 ![image](https://user-images.githubusercontent.com/88630056/142064960-e4d97228-fd0c-4aaf-aad7-a6f0e482f80c.png)
 
-## ✨✨Random Search✨✨FullBit.py✨✨
+## ✨✨Random Search✨✨FullBit.py✨✨ Off-Line Scan
 ![image](https://user-images.githubusercontent.com/88630056/142065699-7ad56513-0600-4514-9796-27f1f0842300.png)
 
 Output:   
