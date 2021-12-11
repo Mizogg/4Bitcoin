@@ -1,4 +1,4 @@
-#100BITS.py Check for 100 bitcoin address per scan and Check Balance=====Made by mizogg.co.uk Donations 3P7PZLbwSt2bqUMsHF9xDsaNKhafiGuWDB =====
+#100BITS_ONLINE.py Check for 100 bitcoin address per scan and Check Balance=====Made by mizogg.co.uk Donations 3P7PZLbwSt2bqUMsHF9xDsaNKhafiGuWDB =====
 from bitcoinaddress import Wallet
 import codecs, sys, atexit, time, requests, random
 from rich.console import Console
