@@ -13,7 +13,7 @@ with open(filename) as f:
         line != "\n"
         line_count += 1
 with open(filename) as file:
-    add = file.read(1024*1024).split()
+    add = file.read().split()
 add = set(add)
 console.print("\n[yellow] -----------------💰HUNT4BITCOIN - 100BITS++.py💰----------------------[/yellow]")
 console.print("[yellow]             🤖🤖🤖    Made by Mizogg    🤖🤖🤖[/yellow]")
